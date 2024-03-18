@@ -1,2 +1,2 @@
-# recetas-
-repositorio de recetas para practicar git
+# recetas
+recetas de quinto año 
